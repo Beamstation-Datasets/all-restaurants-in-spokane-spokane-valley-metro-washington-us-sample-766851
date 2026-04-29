@@ -1,12 +1,12 @@
 {
-  "export_job_id": "075256ee-1706-41ff-ab7d-25d5b8bd8c7e",
+  "export_job_id": "c1259487-5356-49ff-acf4-82ef8ce6213c",
   "id_short": 766851,
-  "published_at": "2026-04-21T19:48:23Z",
+  "published_at": "2026-04-29T07:10:00Z",
   "repo_name": "all-restaurants-in-spokane-spokane-valley-metro-washington-us-sample-766851",
   "sample_asset_name": "beamstation_766851_restaurants-us-spokanespokanevalleywa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/766851/beamstation_766851_restaurants-us-spokanespokanevalleywa_SAMPLE_DIST.csv",
-  "sample_records": 91,
-  "sample_sha256": "6e6950cbf793619f722955649b2c19eaed74029174d4ca89519a87a0cb4a2e3f",
-  "sample_size_bytes": 363802,
-  "total_records": 918
+  "sample_records": 96,
+  "sample_sha256": "cbed4c440462b49d4988e63e3b9cbbc3ae86d975bbece9de3cf40969905ebbc2",
+  "sample_size_bytes": 346941,
+  "total_records": 968
 }
